@@ -1,0 +1,16 @@
+###List of male first names
+###
+! John
+! Mohammed
+1 2 4 7 Steven
+1 2 5 7 Nelson
+1 6 7 Jean
+1 6 7 Michel
+5 7 Kwame
+3 5 7 Youssef
+3 5 7 Ahmed
+3 5 7 Mahmoud
+3 5 7 Yassin
+3 5 7 Ali
+5 6 7 Manuel
+1 5 6 Antonio

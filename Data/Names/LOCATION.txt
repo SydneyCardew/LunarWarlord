@@ -1,0 +1,9 @@
+###list of location types
+! Station
+! Station
+! Base
+! Relay
+! Depot
+! Dome
+! Waypoint
+! Crater

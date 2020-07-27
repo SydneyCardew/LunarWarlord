@@ -1,0 +1,28 @@
+### List of places on Earth
+###
+1 7 Amsterdam
+1 7 Paris
+1 7 London
+1 7 Warsaw
+2 7 Washington
+2 7 Miami
+2 7 Portland
+2 7 Seattle
+2 7 Ontario
+2 7 Tijuana
+3 7 Beijing
+3 7 Nanking
+3 7 Wuhan
+3 7 Tokyo
+3 7 Singapore
+4 7 Sydney
+4 7 Melbourne
+4 7 Honolulu
+5 7 Capetown
+5 7 Mogadishu
+5 7 Cairo
+5 7 Freetown
+6 7 Brasilia
+6 7 Rio
+6 7 Montevideo
+6 7 Caracas

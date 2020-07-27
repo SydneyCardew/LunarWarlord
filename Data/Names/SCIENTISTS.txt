@@ -1,0 +1,9 @@
+###list of scientist's names in a possessive form
+! Newton's
+! Gallileo's
+! Brahe's
+! Aristotle's
+! Eratosthene's
+1 2 4 7 Ulam's
+1 2 4 7 Millgram's
+1 2 4 7 Tsiolkovsky's

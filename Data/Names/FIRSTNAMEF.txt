@@ -1,0 +1,19 @@
+###List of female first names
+###
+! Lucy
+! Mary
+1 2 4 5 7 Ada
+1 2 4 5 7 Edie
+1 2 4 6 7 Maria
+1 2 4 7 Sydney
+1 2 7 Michelle
+1 2 7 Naomi
+1 3 5 7 Asha
+2 7 Karen
+3 7 Aditi
+3 7 Noriko
+3 7 Supriya
+3 5 7 Aya
+1 2 5 7 Faith
+
+

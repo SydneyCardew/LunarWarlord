@@ -1,0 +1,5 @@
+###List of Objects
+###
+! Stone
+! Star
+! Echo
